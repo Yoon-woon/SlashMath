@@ -1,0 +1,4448 @@
+fileFormatVersion: 2
+guid: cb73393ab4e98aa428af8bbfd5c45473
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1105435861894574776
+    second: Exit Menu_0
+  - first:
+      213: 1553916430334400978
+    second: Exit Menu_1
+  - first:
+      213: 2338308787845357806
+    second: Exit Menu_2
+  - first:
+      213: -4958920377807261874
+    second: Exit Menu_3
+  - first:
+      213: 6216751114332759206
+    second: Exit Menu_4
+  - first:
+      213: -1030508714983390756
+    second: Exit Menu_5
+  - first:
+      213: 8246155874697781519
+    second: Exit Menu_6
+  - first:
+      213: 7355269497160403134
+    second: Exit Menu_7
+  - first:
+      213: -808563318525293313
+    second: Exit Menu_8
+  - first:
+      213: -1726653602683240899
+    second: Exit Menu_9
+  - first:
+      213: 467562257284868984
+    second: Exit Menu_10
+  - first:
+      213: 2000371420005303500
+    second: Exit Menu_11
+  - first:
+      213: -6123412303733765723
+    second: Exit Menu_12
+  - first:
+      213: -5354366267802525172
+    second: Exit Menu_13
+  - first:
+      213: -7305712786441014132
+    second: Exit Menu_14
+  - first:
+      213: 6220724928651838850
+    second: Exit Menu_15
+  - first:
+      213: 6843638197304580893
+    second: Exit Menu_16
+  - first:
+      213: -1498868865096171252
+    second: Exit Menu_17
+  - first:
+      213: -3234760200572134149
+    second: Exit Menu_18
+  - first:
+      213: -1071328667083476534
+    second: Exit Menu_19
+  - first:
+      213: 7457677915816463116
+    second: Exit Menu_20
+  - first:
+      213: -6563356492499692158
+    second: Exit Menu_21
+  - first:
+      213: 1113233830090390984
+    second: Exit Menu_22
+  - first:
+      213: 8216110032476951219
+    second: Exit Menu_23
+  - first:
+      213: -4560409599017445531
+    second: Exit Menu_24
+  - first:
+      213: -5180407808000661166
+    second: Exit Menu_25
+  - first:
+      213: 1295392900927410177
+    second: Exit Menu_26
+  - first:
+      213: 7461522135773509233
+    second: Exit Menu_27
+  - first:
+      213: -4914435695377573133
+    second: Exit Menu_28
+  - first:
+      213: 8659992142991317419
+    second: Exit Menu_29
+  - first:
+      213: 5662829627186988010
+    second: Exit Menu_30
+  - first:
+      213: 7436591235858635752
+    second: Exit Menu_31
+  - first:
+      213: -6041394726679366802
+    second: Exit Menu_32
+  - first:
+      213: -1846407185171662024
+    second: Exit Menu_33
+  - first:
+      213: -732725348907561855
+    second: Exit Menu_34
+  - first:
+      213: -6490263460984509666
+    second: Exit Menu_35
+  - first:
+      213: -3389620882682626970
+    second: Exit Menu_36
+  - first:
+      213: 7061393322039382131
+    second: Exit Menu_37
+  - first:
+      213: 3984071783878726400
+    second: Exit Menu_38
+  - first:
+      213: -8436374999917003722
+    second: Exit Menu_39
+  - first:
+      213: 1318931139287160329
+    second: Exit Menu_40
+  - first:
+      213: -6743985109188439535
+    second: Exit Menu_41
+  - first:
+      213: -7234005383799513425
+    second: Exit Menu_42
+  - first:
+      213: -4943579915524944878
+    second: Exit Menu_43
+  - first:
+      213: 3693694219066021548
+    second: Exit Menu_44
+  - first:
+      213: -2352967172445458316
+    second: Exit Menu_45
+  - first:
+      213: 3065853047685517760
+    second: Exit Menu_46
+  - first:
+      213: -346169232010956447
+    second: Exit Menu_47
+  - first:
+      213: -3108359176985026672
+    second: Exit Menu_48
+  - first:
+      213: 7577107123060629383
+    second: Exit Menu_49
+  - first:
+      213: 2912333580565417184
+    second: Exit Menu_50
+  - first:
+      213: -1551236394412166512
+    second: Exit Menu_51
+  - first:
+      213: 5725219435597915766
+    second: Exit Menu_52
+  - first:
+      213: -5053674298250106385
+    second: Exit Menu_53
+  - first:
+      213: 3948324370979214170
+    second: Exit Menu_54
+  - first:
+      213: 1393234748712560780
+    second: Exit Menu_55
+  - first:
+      213: 6481795888050789946
+    second: Exit Menu_56
+  - first:
+      213: -4725790917189196152
+    second: Exit Menu_57
+  - first:
+      213: -1016951246994264218
+    second: Exit Menu_58
+  - first:
+      213: 6321430747917061147
+    second: Exit Menu_59
+  - first:
+      213: -6081201690434232563
+    second: Exit Menu_60
+  - first:
+      213: 9198880769966058079
+    second: Exit Menu_61
+  - first:
+      213: 1054676671686418679
+    second: Exit Menu_62
+  - first:
+      213: -2233290657983978768
+    second: Exit Menu_63
+  - first:
+      213: -5018406638887489974
+    second: Exit Menu_64
+  - first:
+      213: -5505204029996892085
+    second: Exit Menu_65
+  - first:
+      213: -4916111778607953873
+    second: Exit Menu_66
+  - first:
+      213: -2949202903565379808
+    second: Exit Menu_67
+  - first:
+      213: 7264581262364672389
+    second: Exit Menu_68
+  - first:
+      213: -2698623169555109157
+    second: Exit Menu_69
+  - first:
+      213: -4372355571973773806
+    second: Exit Menu_70
+  - first:
+      213: -8483978644497287494
+    second: Exit Menu_71
+  - first:
+      213: -652187278724387139
+    second: Exit Menu_72
+  - first:
+      213: -2222538621080039214
+    second: Exit Menu_73
+  - first:
+      213: 9002260601762003460
+    second: Exit Menu_74
+  - first:
+      213: -1624202895716984956
+    second: Exit Menu_75
+  - first:
+      213: 1274665328226140646
+    second: Exit Menu_76
+  - first:
+      213: -3990848357833176309
+    second: Exit Menu_77
+  - first:
+      213: 8634031605777907137
+    second: Exit Menu_78
+  - first:
+      213: -1201316363541611459
+    second: Exit Menu_79
+  - first:
+      213: -917626476929321603
+    second: Exit Menu_80
+  - first:
+      213: -5835208126474815282
+    second: Exit Menu_81
+  - first:
+      213: 3033536989996376525
+    second: Exit Menu_82
+  - first:
+      213: 5773370750341027394
+    second: Exit Menu_83
+  - first:
+      213: 2096399481773197395
+    second: Exit Menu_84
+  - first:
+      213: -4717561473603377141
+    second: Exit Menu_85
+  - first:
+      213: -6238962713465006430
+    second: Exit Menu_86
+  - first:
+      213: 7225689768388463622
+    second: Exit Menu_87
+  - first:
+      213: -2296461930564242794
+    second: Exit Menu_88
+  - first:
+      213: 8088699836601273345
+    second: Exit Menu_89
+  - first:
+      213: 3498848703581412268
+    second: Exit Menu_90
+  - first:
+      213: 982128168121908262
+    second: Exit Menu_91
+  - first:
+      213: 4545033289608823970
+    second: Exit Menu_92
+  - first:
+      213: -197304006808265015
+    second: Exit Menu_93
+  - first:
+      213: 1626804988365019274
+    second: Exit Menu_94
+  - first:
+      213: -8301450900370503776
+    second: Exit Menu_95
+  - first:
+      213: 1814122312257603899
+    second: Exit Menu_96
+  - first:
+      213: -4690056200252243500
+    second: Exit Menu_97
+  - first:
+      213: -6274089721979073520
+    second: Exit Menu_98
+  - first:
+      213: -2718719502988543749
+    second: Exit Menu_99
+  - first:
+      213: -6800107519596755023
+    second: Exit Menu_100
+  - first:
+      213: 3768815683107962350
+    second: Exit Menu_101
+  - first:
+      213: 353726489111569675
+    second: Exit Menu_102
+  - first:
+      213: 4478290407603364690
+    second: Exit Menu_103
+  - first:
+      213: 1697496353004819036
+    second: Exit Menu_104
+  - first:
+      213: 4881182110777872152
+    second: Exit Menu_105
+  - first:
+      213: 7289481600001446743
+    second: Exit Menu_106
+  - first:
+      213: 5601484237372596042
+    second: Exit Menu_107
+  - first:
+      213: 3350483077831084900
+    second: Exit Menu_108
+  - first:
+      213: -5996608537460747866
+    second: Exit Menu_109
+  - first:
+      213: 8456165969085040358
+    second: Exit Menu_110
+  - first:
+      213: 5511326065494617530
+    second: Exit Menu_111
+  - first:
+      213: -6899816564374571360
+    second: Exit Menu_112
+  - first:
+      213: -1763359971219754476
+    second: Exit Menu_113
+  - first:
+      213: -5704208569326627018
+    second: Exit Menu_114
+  - first:
+      213: -3250452177531225603
+    second: Exit Menu_115
+  - first:
+      213: -9011477427233470294
+    second: Exit Menu_116
+  - first:
+      213: -8173512373752079689
+    second: Exit Menu_117
+  - first:
+      213: 2003389406756307958
+    second: Exit Menu_118
+  - first:
+      213: 2390790374890614965
+    second: Exit Menu_119
+  - first:
+      213: 4379098680105801887
+    second: Exit Menu_120
+  - first:
+      213: 2007622891238943544
+    second: Exit Menu_121
+  - first:
+      213: -1684397332573939611
+    second: Exit Menu_122
+  - first:
+      213: 8374910859913920760
+    second: Exit Menu_123
+  - first:
+      213: -6951481156706542504
+    second: Exit Menu_124
+  - first:
+      213: 3898395445429988560
+    second: Exit Menu_125
+  - first:
+      213: -3168974198282245959
+    second: Exit Menu_126
+  - first:
+      213: -1908864004645012098
+    second: Exit Menu_127
+  - first:
+      213: 3225628142723958254
+    second: Exit Menu_128
+  - first:
+      213: -6536068320594402684
+    second: Exit Menu_129
+  - first:
+      213: 3072363676637851197
+    second: Exit Menu_130
+  - first:
+      213: 505994857014133021
+    second: Exit Menu_131
+  - first:
+      213: 5948956270390361626
+    second: Exit Menu_132
+  - first:
+      213: 8879423834108650700
+    second: Exit Menu_133
+  - first:
+      213: 2145522644616455597
+    second: Exit Menu_134
+  - first:
+      213: -224654736276815328
+    second: Exit Menu_135
+  - first:
+      213: 1255286849208847263
+    second: Exit Menu_136
+  - first:
+      213: -958625580398627287
+    second: Exit Menu_137
+  - first:
+      213: -6195087045952643060
+    second: Exit Menu_138
+  - first:
+      213: 4834999817758382170
+    second: Exit Menu_139
+  - first:
+      213: 5615995760266882162
+    second: Exit Menu_140
+  - first:
+      213: -3447897243689461364
+    second: Exit Menu_141
+  - first:
+      213: -6386559854914014916
+    second: Exit Menu_142
+  - first:
+      213: 4568161804209656552
+    second: Exit Menu_143
+  - first:
+      213: -4303273364483000958
+    second: Exit Menu_144
+  - first:
+      213: -1565301632530792746
+    second: Exit Menu_145
+  - first:
+      213: 6340025306163897124
+    second: Exit Menu_146
+  - first:
+      213: -6071493092091659762
+    second: Exit Menu_147
+  - first:
+      213: -2772600396279812178
+    second: Exit Menu_148
+  - first:
+      213: 935045397954020510
+    second: Exit Menu_149
+  - first:
+      213: 626544341610470901
+    second: Exit Menu_150
+  - first:
+      213: 8310999712289471084
+    second: Exit Menu_151
+  - first:
+      213: 8908638413647147575
+    second: Exit Menu_152
+  - first:
+      213: -7284220532939148791
+    second: Exit Menu_153
+  - first:
+      213: 5676580521590608500
+    second: Exit Menu_154
+  - first:
+      213: 8821713808557123427
+    second: Exit Menu_155
+  - first:
+      213: 8505478769793015984
+    second: Exit Menu_156
+  - first:
+      213: 7645496682683654061
+    second: Exit Menu_157
+  - first:
+      213: -3241777911697547963
+    second: Exit Menu_158
+  - first:
+      213: 741215194528792336
+    second: Exit Menu_159
+  - first:
+      213: -2298545505640431564
+    second: Exit Menu_160
+  - first:
+      213: -5835294623995329348
+    second: Exit Menu_161
+  - first:
+      213: -2762792559048276938
+    second: Exit Menu_162
+  - first:
+      213: 130388956957783344
+    second: Exit Menu_163
+  - first:
+      213: 7186631815657188559
+    second: Exit Menu_164
+  - first:
+      213: -1028250304775002545
+    second: Exit Menu_165
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Exit Menu_0
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1290
+        width: 110
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84dcbc1c0f3b8a0f0800000000000000
+      internalID: -1105435861894574776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1313
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d999b8a2ce909510800000000000000
+      internalID: 1553916430334400978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_2
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1317
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee062b22477537020800000000000000
+      internalID: 2338308787845357806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_3
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1313
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f2a5b90306e2bb0800000000000000
+      internalID: -4958920377807261874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1310
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a461d26336564650800000000000000
+      internalID: 6216751114332759206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_5
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1293
+        width: 236
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1887998c5e2b1f0800000000000000
+      internalID: -1030508714983390756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_6
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1317
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01acd9f31b307270800000000000000
+      internalID: 8246155874697781519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_7
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1313
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8038543aa231660800000000000000
+      internalID: 7355269497160403134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_8
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1310
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc83ec12f767c4f0800000000000000
+      internalID: -808563318525293313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_9
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1283
+        width: 253
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ebae152b1b908e0800000000000000
+      internalID: -1726653602683240899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_10
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1310
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b28df456d1d7600800000000000000
+      internalID: 467562257284868984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_11
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1300
+        width: 247
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc48244453fb2cb10800000000000000
+      internalID: 2000371420005303500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1303
+        width: 49
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a941b6f3f4450ba0800000000000000
+      internalID: -6123412303733765723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1300
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02eb428f3871b5b0800000000000000
+      internalID: -5354366267802525172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_14
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1306
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8477259de4ec9a90800000000000000
+      internalID: -7305712786441014132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_15
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1303
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285c5b12d54745650800000000000000
+      internalID: 6220724928651838850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_16
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1300
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b52a96eac79fe50800000000000000
+      internalID: 6843638197304580893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_17
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1293
+        width: 150
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01cc0365b2f23be0800000000000000
+      internalID: -1498868865096171252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_18
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1300
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc935f6cb2db13d0800000000000000
+      internalID: -3234760200572134149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_19
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1307
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1fbc0e040e121f0800000000000000
+      internalID: -1071328667083476534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_20
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1286
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b048d4d8efe7760800000000000000
+      internalID: 7457677915816463116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_21
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1296
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2855d425b064ae4a0800000000000000
+      internalID: -6563356492499692158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_22
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1296
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd3c723540037f00800000000000000
+      internalID: 1113233830090390984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_23
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1296
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2df413b8c750270800000000000000
+      internalID: 8216110032476951219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_24
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1294
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567984cb1ab26b0c0800000000000000
+      internalID: -4560409599017445531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_25
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1290
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259e57cab8e7b18b0800000000000000
+      internalID: -5180407808000661166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_26
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1286
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1005758eaf82af110800000000000000
+      internalID: 1295392900927410177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_27
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1296
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1767e7289d6ac8760800000000000000
+      internalID: 7461522135773509233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_28
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1293
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa1589d5ca6ccbb0800000000000000
+      internalID: -4914435695377573133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_29
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1290
+        width: 54
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9dba0b8f87e2870800000000000000
+      internalID: 8659992142991317419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_30
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 1286
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3c9000b89669e40800000000000000
+      internalID: 5662829627186988010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_31
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1276
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb13290454143760800000000000000
+      internalID: 7436591235858635752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_32
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1279
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63bb583187a82ca0800000000000000
+      internalID: -6041394726679366802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_33
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1283
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b3d11a27e3066e0800000000000000
+      internalID: -1846407185171662024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_34
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 1283
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cc0746d26d4d5f0800000000000000
+      internalID: -732725348907561855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_35
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 1276
+        width: 75
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b2255e4c3fde5a0800000000000000
+      internalID: -6490263460984509666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1273
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cb47424c5a5f0d0800000000000000
+      internalID: -3389620882682626970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_37
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 1273
+        width: 52
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370197340db1ff160800000000000000
+      internalID: 7061393322039382131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_38
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 1268
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0039fbdcd244a4730800000000000000
+      internalID: 3984071783878726400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_39
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 1265
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cf5f9a2a9fbea80800000000000000
+      internalID: -8436374999917003722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_40
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 1262
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906996812e8cd4210800000000000000
+      internalID: 1318931139287160329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_41
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 1258
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1129c4c364d8862a0800000000000000
+      internalID: -6743985109188439535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_42
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1255
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faedd5b4e66ab9b90800000000000000
+      internalID: -7234005383799513425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_43
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 1251
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c41605240e46bb0800000000000000
+      internalID: -4943579915524944878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_44
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 1248
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6185c7253a24330800000000000000
+      internalID: 3693694219066021548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_45
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1245
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470bb3eb2d4985fd0800000000000000
+      internalID: -2352967172445458316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 527
+        width: 2294
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c118d07a191c8a20800000000000000
+      internalID: 3065853047685517760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_47
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 525
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16131d5eae8223bf0800000000000000
+      internalID: -346169232010956447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_48
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 511
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f5b7d1cc3ecd4d0800000000000000
+      internalID: -3108359176985026672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_49
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 499
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f5c1f78ca472960800000000000000
+      internalID: 7577107123060629383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_50
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 486
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec0b0916ffaa6820800000000000000
+      internalID: 2912333580565417184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_51
+      rect:
+        serializedVersion: 2
+        x: 2437
+        y: 474
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092b764d7b6e87ae0800000000000000
+      internalID: -1551236394412166512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_52
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 446
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676e9ff3eb0147f40800000000000000
+      internalID: 5725219435597915766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_53
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 459
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9e742500ebdd9b0800000000000000
+      internalID: -5053674298250106385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_54
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 434
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53db36a8144bc630800000000000000
+      internalID: 3948324370979214170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_55
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 420
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c882ebd4f93c55310800000000000000
+      internalID: 1393234748712560780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_56
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 406
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3edad5a407f3f950800000000000000
+      internalID: 6481795888050789946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_57
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 391
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886ab2af23e9a6eb0800000000000000
+      internalID: -4725790917189196152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_58
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 375
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f24099a3013e1f0800000000000000
+      internalID: -1016951246994264218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_59
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 361
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c04d9d5cb3ab750800000000000000
+      internalID: 6321430747917061147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_60
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 336
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f992a384b3b9ba0800000000000000
+      internalID: -6081201690434232563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_61
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 336
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5aaff0925df8af70800000000000000
+      internalID: 9198880769966058079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_62
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 336
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0a2c058d6f2ae00800000000000000
+      internalID: 1054676671686418679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_63
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 339
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2aaa2aaf1c101e0800000000000000
+      internalID: -2233290657983978768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_64
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 339
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e26a620c90b5ab0800000000000000
+      internalID: -5018406638887489974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_65
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 336
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b408cff3a169993b0800000000000000
+      internalID: -5505204029996892085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_66
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 345
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2885ff426676cbb0800000000000000
+      internalID: -4916111778607953873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_67
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 325
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0275f62b5935217d0800000000000000
+      internalID: -2949202903565379808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_68
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 328
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58184313b2af0d460800000000000000
+      internalID: 7264581262364672389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_69
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 333
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda670476809c8ad0800000000000000
+      internalID: -2698623169555109157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_70
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 332
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216adc4e5c54253c0800000000000000
+      internalID: -4372355571973773806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_71
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 328
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab63db47f5ad24a80800000000000000
+      internalID: -8483978644497287494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_72
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 325
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbeaa9c1027f2f6f0800000000000000
+      internalID: -652187278724387139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_73
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 325
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d010fe46e4f721e0800000000000000
+      internalID: -2222538621080039214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_74
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 328
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ab48f32547eec70800000000000000
+      internalID: 9002260601762003460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_75
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 333
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487d0ad521ca579e0800000000000000
+      internalID: -1624202895716984956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_76
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 332
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e10d60dc5580b110800000000000000
+      internalID: 1274665328226140646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_77
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 328
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b07ee1098ad98c0800000000000000
+      internalID: -3990848357833176309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_78
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 325
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd33e9100e32d770800000000000000
+      internalID: 8634031605777907137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_79
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 329
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cfc38d121145fe0800000000000000
+      internalID: -1201316363541611459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_80
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 315
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75722eb49fe343f0800000000000000
+      internalID: -917626476929321603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_81
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 318
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8fefe002d250fa0800000000000000
+      internalID: -5835208126474815282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_82
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 322
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1edbde1d9491a20800000000000000
+      internalID: 3033536989996376525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_83
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 322
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24615badb122f1050800000000000000
+      internalID: 5773370750341027394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_84
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 318
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3588762b838e71d10800000000000000
+      internalID: 2096399481773197395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_85
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 315
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b086dcf95dad78eb0800000000000000
+      internalID: -4717561473603377141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_86
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 315
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6d201b770ca69a0800000000000000
+      internalID: -6238962713465006430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_87
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 318
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c08fd9f8ec64460800000000000000
+      internalID: 7225689768388463622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_88
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 321
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692b2849a045120e0800000000000000
+      internalID: -2296461930564242794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_89
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 322
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c016745a5d04070800000000000000
+      internalID: 8088699836601273345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_90
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 318
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab5ec3bb586e8030800000000000000
+      internalID: 3498848703581412268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_91
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 315
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cbfc88d5831ad00800000000000000
+      internalID: 982128168121908262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_92
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 313
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4857f32b3331f30800000000000000
+      internalID: 4545033289608823970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_93
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 301
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce9e691d09034df0800000000000000
+      internalID: -197304006808265015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_94
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 305
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88945a8482939610800000000000000
+      internalID: 1626804988365019274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_95
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 309
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7c11b93625bcc80800000000000000
+      internalID: -8301450900370503776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_96
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 308
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b398931a1ae0d2910800000000000000
+      internalID: 1814122312257603899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_97
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 311
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1c85f1cb299eeb0800000000000000
+      internalID: -4690056200252243500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_98
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 308
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c0280b3a4fde8a0800000000000000
+      internalID: -6274089721979073520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_99
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 305
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8f074340b254ad0800000000000000
+      internalID: -2718719502988543749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_100
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 301
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b709fb4d3a21a1a0800000000000000
+      internalID: -6800107519596755023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_101
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 301
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed329f45e58d4430800000000000000
+      internalID: 3768815683107962350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_102
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 305
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0524232e50b8e400800000000000000
+      internalID: 353726489111569675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_103
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 308
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253ec321665162e30800000000000000
+      internalID: 4478290407603364690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_104
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 311
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c529f5870f7be8710800000000000000
+      internalID: 1697496353004819036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_105
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 311
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f08e4a4417db340800000000000000
+      internalID: 4881182110777872152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_106
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 308
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75315d4d4e0792560800000000000000
+      internalID: 7289481600001446743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_107
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 305
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f1b876c387cbd40800000000000000
+      internalID: 5601484237372596042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_108
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 301
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b44109b9e4f7e20800000000000000
+      internalID: 3350483077831084900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_109
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 291
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1d39b7e44c7cca0800000000000000
+      internalID: -5996608537460747866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 295
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e68f0d65265a5570800000000000000
+      internalID: 8456165969085040358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_111
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 298
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd68273bd92c7c40800000000000000
+      internalID: 5511326065494617530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_112
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 298
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6f819346dee30a0800000000000000
+      internalID: -6899816564374571360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_113
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 294
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412bd48e2794787e0800000000000000
+      internalID: -1763359971219754476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_114
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 291
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6371c84478496d0b0800000000000000
+      internalID: -5704208569326627018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_115
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 291
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df93bd657f214e2d0800000000000000
+      internalID: -3250452177531225603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_116
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 294
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa84c48560dc0f280800000000000000
+      internalID: -9011477427233470294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_117
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 298
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba5f3b1dc9d19e80800000000000000
+      internalID: -8173512373752079689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_118
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 298
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f38d701d087dcb10800000000000000
+      internalID: 2003389406756307958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_119
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 295
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b037c3dd2bcd2120800000000000000
+      internalID: 2390790374890614965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_120
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 285
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9896105c0fa5cc30800000000000000
+      internalID: 4379098680105801887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_121
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 296
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b6d3bf1628cdb10800000000000000
+      internalID: 2007622891238943544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_122
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 281
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5689053ec81df98e0800000000000000
+      internalID: -1684397332573939611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_123
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 288
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f00bbe0e09a93470800000000000000
+      internalID: 8374910859913920760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_124
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 288
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c5fafe7b0678f90800000000000000
+      internalID: -6951481156706542504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_125
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 284
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcead6c002e91630800000000000000
+      internalID: 3898395445429988560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_126
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 288
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b82201b1ca8504d0800000000000000
+      internalID: -3168974198282245959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_127
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 278
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7dba962d4a5285e0800000000000000
+      internalID: -1908864004645012098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_128
+      rect:
+        serializedVersion: 2
+        x: 2391
+        y: 275
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee58098a4bbb3cc20800000000000000
+      internalID: 3225628142723958254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_129
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 268
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4826943fd783b45a0800000000000000
+      internalID: -6536068320594402684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_130
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 275
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3eefce5c7a33aa20800000000000000
+      internalID: 3072363676637851197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_131
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 278
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11808e34a7a50700800000000000000
+      internalID: 505994857014133021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_132
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 273
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e33f08530fe8250800000000000000
+      internalID: 5948956270390361626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_133
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 251
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4ee229eec0a3b70800000000000000
+      internalID: 8879423834108650700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_134
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 256
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5abe15a7d66cd10800000000000000
+      internalID: 2145522644616455597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_135
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 260
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0228c1725bdd1ecf0800000000000000
+      internalID: -224654736276815328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_136
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 265
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b00521dbcab6110800000000000000
+      internalID: 1255286849208847263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_137
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 245
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926bcb71d1742b2f0800000000000000
+      internalID: -958625580398627287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 253
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c006e599721a60aa0800000000000000
+      internalID: -6195087045952643060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_139
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 51
+        width: 177
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a581192a7be591340800000000000000
+      internalID: 4834999817758382170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_140
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 167
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27caece936600fd40800000000000000
+      internalID: 5615995760266882162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_141
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 170
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8957df79bb9620d0800000000000000
+      internalID: -3447897243689461364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_142
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 175
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31741f36a16e57a0800000000000000
+      internalID: -6386559854914014916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_143
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 177
+        width: 82
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e29c6035fe556f30800000000000000
+      internalID: 4568161804209656552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_144
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 175
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285379abca3b744c0800000000000000
+      internalID: -4303273364483000958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_145
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 170
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6deb9a2657ee64ae0800000000000000
+      internalID: -1565301632530792746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_146
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 162
+        width: 13
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423e2e0dc6b4cf750800000000000000
+      internalID: 6340025306163897124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_147
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 161
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a73ad6339bdbba0800000000000000
+      internalID: -6071493092091659762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_148
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 164
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf62a321aeb589d0800000000000000
+      internalID: -2772600396279812178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_149
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 168
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94c9e9d5d2f9fc00800000000000000
+      internalID: 935045397954020510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_150
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 164
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd19b552cee1b800800000000000000
+      internalID: 626544341610470901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_151
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 150
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a336b643a965370800000000000000
+      internalID: 8310999712289471084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_152
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 154
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73276ddef67d1ab70800000000000000
+      internalID: 8908638413647147575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_153
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 157
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9023e8cc40049ea90800000000000000
+      internalID: -7284220532939148791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_154
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 129
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4725f4898e347ce40800000000000000
+      internalID: 5676580521590608500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_155
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 137
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367a43d28f50d6a70800000000000000
+      internalID: 8821713808557123427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_156
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 140
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0a32e80e7890670800000000000000
+      internalID: 8505478769793015984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_157
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 117
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf59cea9b24a1a60800000000000000
+      internalID: 7645496682683654061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_158
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 124
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d5f8c3a24e203d0800000000000000
+      internalID: -3241777911697547963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_159
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 104
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fb204da43594a00800000000000000
+      internalID: 741215194528792336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_160
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 110
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4304b347a0de910e0800000000000000
+      internalID: -2298545505640431564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_161
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 77
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb40309c47ed40fa0800000000000000
+      internalID: -5835294623995329348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_162
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 88
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634c5d13ec698a9d0800000000000000
+      internalID: -2762792559048276938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_163
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 53
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0353a16c01c3fc100800000000000000
+      internalID: 130388956957783344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_164
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 0
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc64c75f8b0cb360800000000000000
+      internalID: 7186631815657188559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Menu_165
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 0
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46e2b3bbcbeab1f0800000000000000
+      internalID: -1028250304775002545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Exit Menu_0: -1105435861894574776
+      Exit Menu_1: 1553916430334400978
+      Exit Menu_10: 467562257284868984
+      Exit Menu_100: -6800107519596755023
+      Exit Menu_101: 3768815683107962350
+      Exit Menu_102: 353726489111569675
+      Exit Menu_103: 4478290407603364690
+      Exit Menu_104: 1697496353004819036
+      Exit Menu_105: 4881182110777872152
+      Exit Menu_106: 7289481600001446743
+      Exit Menu_107: 5601484237372596042
+      Exit Menu_108: 3350483077831084900
+      Exit Menu_109: -5996608537460747866
+      Exit Menu_11: 2000371420005303500
+      Exit Menu_110: 8456165969085040358
+      Exit Menu_111: 5511326065494617530
+      Exit Menu_112: -6899816564374571360
+      Exit Menu_113: -1763359971219754476
+      Exit Menu_114: -5704208569326627018
+      Exit Menu_115: -3250452177531225603
+      Exit Menu_116: -9011477427233470294
+      Exit Menu_117: -8173512373752079689
+      Exit Menu_118: 2003389406756307958
+      Exit Menu_119: 2390790374890614965
+      Exit Menu_12: -6123412303733765723
+      Exit Menu_120: 4379098680105801887
+      Exit Menu_121: 2007622891238943544
+      Exit Menu_122: -1684397332573939611
+      Exit Menu_123: 8374910859913920760
+      Exit Menu_124: -6951481156706542504
+      Exit Menu_125: 3898395445429988560
+      Exit Menu_126: -3168974198282245959
+      Exit Menu_127: -1908864004645012098
+      Exit Menu_128: 3225628142723958254
+      Exit Menu_129: -6536068320594402684
+      Exit Menu_13: -5354366267802525172
+      Exit Menu_130: 3072363676637851197
+      Exit Menu_131: 505994857014133021
+      Exit Menu_132: 5948956270390361626
+      Exit Menu_133: 8879423834108650700
+      Exit Menu_134: 2145522644616455597
+      Exit Menu_135: -224654736276815328
+      Exit Menu_136: 1255286849208847263
+      Exit Menu_137: -958625580398627287
+      Exit Menu_138: -6195087045952643060
+      Exit Menu_139: 4834999817758382170
+      Exit Menu_14: -7305712786441014132
+      Exit Menu_140: 5615995760266882162
+      Exit Menu_141: -3447897243689461364
+      Exit Menu_142: -6386559854914014916
+      Exit Menu_143: 4568161804209656552
+      Exit Menu_144: -4303273364483000958
+      Exit Menu_145: -1565301632530792746
+      Exit Menu_146: 6340025306163897124
+      Exit Menu_147: -6071493092091659762
+      Exit Menu_148: -2772600396279812178
+      Exit Menu_149: 935045397954020510
+      Exit Menu_15: 6220724928651838850
+      Exit Menu_150: 626544341610470901
+      Exit Menu_151: 8310999712289471084
+      Exit Menu_152: 8908638413647147575
+      Exit Menu_153: -7284220532939148791
+      Exit Menu_154: 5676580521590608500
+      Exit Menu_155: 8821713808557123427
+      Exit Menu_156: 8505478769793015984
+      Exit Menu_157: 7645496682683654061
+      Exit Menu_158: -3241777911697547963
+      Exit Menu_159: 741215194528792336
+      Exit Menu_16: 6843638197304580893
+      Exit Menu_160: -2298545505640431564
+      Exit Menu_161: -5835294623995329348
+      Exit Menu_162: -2762792559048276938
+      Exit Menu_163: 130388956957783344
+      Exit Menu_164: 7186631815657188559
+      Exit Menu_165: -1028250304775002545
+      Exit Menu_17: -1498868865096171252
+      Exit Menu_18: -3234760200572134149
+      Exit Menu_19: -1071328667083476534
+      Exit Menu_2: 2338308787845357806
+      Exit Menu_20: 7457677915816463116
+      Exit Menu_21: -6563356492499692158
+      Exit Menu_22: 1113233830090390984
+      Exit Menu_23: 8216110032476951219
+      Exit Menu_24: -4560409599017445531
+      Exit Menu_25: -5180407808000661166
+      Exit Menu_26: 1295392900927410177
+      Exit Menu_27: 7461522135773509233
+      Exit Menu_28: -4914435695377573133
+      Exit Menu_29: 8659992142991317419
+      Exit Menu_3: -4958920377807261874
+      Exit Menu_30: 5662829627186988010
+      Exit Menu_31: 7436591235858635752
+      Exit Menu_32: -6041394726679366802
+      Exit Menu_33: -1846407185171662024
+      Exit Menu_34: -732725348907561855
+      Exit Menu_35: -6490263460984509666
+      Exit Menu_36: -3389620882682626970
+      Exit Menu_37: 7061393322039382131
+      Exit Menu_38: 3984071783878726400
+      Exit Menu_39: -8436374999917003722
+      Exit Menu_4: 6216751114332759206
+      Exit Menu_40: 1318931139287160329
+      Exit Menu_41: -6743985109188439535
+      Exit Menu_42: -7234005383799513425
+      Exit Menu_43: -4943579915524944878
+      Exit Menu_44: 3693694219066021548
+      Exit Menu_45: -2352967172445458316
+      Exit Menu_46: 3065853047685517760
+      Exit Menu_47: -346169232010956447
+      Exit Menu_48: -3108359176985026672
+      Exit Menu_49: 7577107123060629383
+      Exit Menu_5: -1030508714983390756
+      Exit Menu_50: 2912333580565417184
+      Exit Menu_51: -1551236394412166512
+      Exit Menu_52: 5725219435597915766
+      Exit Menu_53: -5053674298250106385
+      Exit Menu_54: 3948324370979214170
+      Exit Menu_55: 1393234748712560780
+      Exit Menu_56: 6481795888050789946
+      Exit Menu_57: -4725790917189196152
+      Exit Menu_58: -1016951246994264218
+      Exit Menu_59: 6321430747917061147
+      Exit Menu_6: 8246155874697781519
+      Exit Menu_60: -6081201690434232563
+      Exit Menu_61: 9198880769966058079
+      Exit Menu_62: 1054676671686418679
+      Exit Menu_63: -2233290657983978768
+      Exit Menu_64: -5018406638887489974
+      Exit Menu_65: -5505204029996892085
+      Exit Menu_66: -4916111778607953873
+      Exit Menu_67: -2949202903565379808
+      Exit Menu_68: 7264581262364672389
+      Exit Menu_69: -2698623169555109157
+      Exit Menu_7: 7355269497160403134
+      Exit Menu_70: -4372355571973773806
+      Exit Menu_71: -8483978644497287494
+      Exit Menu_72: -652187278724387139
+      Exit Menu_73: -2222538621080039214
+      Exit Menu_74: 9002260601762003460
+      Exit Menu_75: -1624202895716984956
+      Exit Menu_76: 1274665328226140646
+      Exit Menu_77: -3990848357833176309
+      Exit Menu_78: 8634031605777907137
+      Exit Menu_79: -1201316363541611459
+      Exit Menu_8: -808563318525293313
+      Exit Menu_80: -917626476929321603
+      Exit Menu_81: -5835208126474815282
+      Exit Menu_82: 3033536989996376525
+      Exit Menu_83: 5773370750341027394
+      Exit Menu_84: 2096399481773197395
+      Exit Menu_85: -4717561473603377141
+      Exit Menu_86: -6238962713465006430
+      Exit Menu_87: 7225689768388463622
+      Exit Menu_88: -2296461930564242794
+      Exit Menu_89: 8088699836601273345
+      Exit Menu_9: -1726653602683240899
+      Exit Menu_90: 3498848703581412268
+      Exit Menu_91: 982128168121908262
+      Exit Menu_92: 4545033289608823970
+      Exit Menu_93: -197304006808265015
+      Exit Menu_94: 1626804988365019274
+      Exit Menu_95: -8301450900370503776
+      Exit Menu_96: 1814122312257603899
+      Exit Menu_97: -4690056200252243500
+      Exit Menu_98: -6274089721979073520
+      Exit Menu_99: -2718719502988543749
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
